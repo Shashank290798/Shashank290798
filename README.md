@@ -44,13 +44,3 @@
 </div>
 
 ---
-
-
-### Watch my contribution graph get eaten by the snake 🐍
-
- <div align="center">
- 
- ![github contribution grid snake animation](https://github.com/LalithYagnavalkya/LalithYagnavalkya/blob/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://github.com/LalithYagnavalkya/LalithYagnavalkya/blob/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
-</div>
