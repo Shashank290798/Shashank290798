@@ -58,3 +58,11 @@ I'm a Senior Software Engineer with over 3 years of experience. During my Softwa
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank290798&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/> 
 </div>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shashank290798&theme=dark&background=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank290798&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Get in Touch
+- :email: Email: Shashanknalogal@gmail.com
+- :briefcase: LinkedIn: [Shashank N C](https://www.linkedin.com/in/shashanknc/)
+- :bird: Twitter: [TLallu](https://twitter.com/TLallu)
