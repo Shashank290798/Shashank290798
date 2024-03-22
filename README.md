@@ -14,7 +14,14 @@
 </div>
 
 ---
+## Hi there! 👋 I'm Shashank.
 
+I'm a Senior Software Engineer with over 3 years of experience. During my Software Engineering career, I have worked with multiple programming languages, libraries, frameworks, and technologies such as JavaScript, Python, NodeJS, React, Kafka, and AWS.
+
+### About Me
+- :computer: Experienced Full Stack Developer
+- :chart_with_upwards_trend: Developed a server-based Node.js tool for the internal team, increasing work efficiency by 80%
+- :mortar_board: Engineer
 ### :man_technologist: About Me :
 
 :wave: I am a self-taught Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
