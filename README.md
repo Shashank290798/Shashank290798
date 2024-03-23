@@ -25,7 +25,7 @@ I'm a Senior Software Engineer with over 3 years of experience. During my Softwa
 ### :man_technologist: About Me :
 
 :wave: I am a self-taught Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🎓 Engineer
+
   
 - 📫 ### Get in Touch
 - :email: Email: Shashanknalogal@gmail.com
